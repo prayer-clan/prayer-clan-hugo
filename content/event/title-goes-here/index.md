@@ -1,5 +1,5 @@
 ---
-title: Title goes here
+title: Title goes here modified
 abstract: Event abstract blah blah blah blah blah blah blah blah blah blah blah blah
 location: "Where: Located in Clan Hall`"
 date: 2022-11-06T07:00:24.501Z
