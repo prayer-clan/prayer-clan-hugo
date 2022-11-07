@@ -1,15 +1,13 @@
 ---
 title: Skill of the Week
 date: 2022-11-07T06:42:03.938Z
-summary: "![:Firemaking:](https://cdn.discordapp.com/emojis/770386133107736616.\
-  webp?size=56&quality=lossless) Firemaking
-  ![:Firemaking:](https://cdn.discordapp.com/emojis/770386133107736616.webp?siz\
-  e=56&quality=lossless)"
+summary: "![](https://cdn.discordapp.com/emojis/770386133107736616.webp?size=56\
+  &quality=lossless)"
 tags:
   - SOTW-T
 categories:
   - SOTW-C
-external_link: https://wiseoldman.net/competitions/16939/participants
+external_link: ""
 links:
   - url: https://wiseoldman.net/competitions/16939/participants
     name: WiseOldMan Competition Link
@@ -18,7 +16,7 @@ image:
   caption: "Skill of the Week: FIREMAKING"
   focal_point: TOP
 ---
-# ![:Firemaking:](https://cdn.discordapp.com/emojis/770386133107736616.webp?size=56&quality=lossless) Firemaking ![:Firemaking:](https://cdn.discordapp.com/emojis/770386133107736616.webp?size=56&quality=lossless)
+# Firemaking
 
 ## How will this work?
 
@@ -29,7 +27,7 @@ Gain the most experience in this skill to win the competition! All competitions 
 * **Start:** 05 Nov 2022, 13:00 (*12pm AEST*) 
 * **End:** 12 Nov 2022, 13:00 (*12pm AEST*) 
 
-## Prizes![:coins:](https://cdn.discordapp.com/emojis/309026994933334029.webp?size=56&quality=lossless)
+## Prizes
 
 * 1st Place: 20 Million coins 
 * 2nd Place: 10 Million coins 
