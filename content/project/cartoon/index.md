@@ -1,7 +1,7 @@
 ---
-title: Skill of the Week
-date: 2022-11-07T06:42:03.938Z
-summary: ""
+title: Skill of the Week - 43
+date: 2022-11-07T12:00:00.000Z
+summary: "Gain the most XP in the SOTW: Firemaking!"
 tags:
   - SOTW-T
 categories:
