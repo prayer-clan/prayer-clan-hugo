@@ -1,8 +1,7 @@
 ---
 title: Skill of the Week
 date: 2022-11-07T06:42:03.938Z
-summary: "![](https://cdn.discordapp.com/emojis/770386133107736616.webp?size=56\
-  &quality=lossless)"
+summary: ""
 tags:
   - SOTW-T
 categories:
@@ -27,10 +26,14 @@ Gain the most experience in this skill to win the competition! All competitions 
 * **Start:** 05 Nov 2022, 13:00 (*12pm AEST*) 
 * **End:** 12 Nov 2022, 13:00 (*12pm AEST*) 
 
+**Total Duration**: 7 days.
+
 ## Prizes
 
 * 1st Place: 20 Million coins 
 * 2nd Place: 10 Million coins 
-* 3rd Place: 5 Million coins 
+* 3rd Place:  5 Million coins 
 
-Competition Link: [https://wiseoldman.net/competitions/16939/participants](https://wiseoldman.net/competitions/16939/participants "https\://wiseoldman.net/competitions/16939/participants") Gain the most experience in Firemaking to get one of the top 3 places! 7 Day Comp.
+Competition Link: [https://wiseoldman.net/competitions/16939/participants](https://wiseoldman.net/competitions/16939/participants "https\://wiseoldman.net/competitions/16939/participants") 
+
+Gain the most experience in Firemaking to get one of the top 3 places!
